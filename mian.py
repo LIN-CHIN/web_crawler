@@ -1,5 +1,3 @@
-from urllib.request import urlopen,Request
-import json
 import getDcard
 # url = "https://www.dcard.tw/_api/forums/dcard/posts?popular=false" Dcard版
 #↓北商版
